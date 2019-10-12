@@ -50,6 +50,8 @@
         android:layout_height="wrap_content"
 
         android:text="Login"
-        android:textSize="30sp"/>
+        android:textSize="30sp"
+        />
+
 
 </LinearLayout>
